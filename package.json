@@ -23,6 +23,7 @@
     "babel-preset-react": "^6.24.1"
   },
   "dependencies": {
+    "classnames": "^2.2.5",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "solarlunar": "^2.0.1"
